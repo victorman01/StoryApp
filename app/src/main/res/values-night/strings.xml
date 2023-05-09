@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="WelcomeMessage">Welcome to Story App!</string>
+    <string name="HintEmail">Input Your Email</string>
+    <string name="HintPassword">Input Your Password</string>
+    <string name="LoginText">Login</string>
+    <string name="RegisterText">Register</string>
+    <string name="RegisterMessage">Create New Account</string>
+    <string name="HintName">Your Name</string>
+    <string name="ButtonRegister">Register</string>
+    <string name="descriptiontext">Description</string>
+    <string name="user_nametext">User Name</string>
+    <string name="NoAccountText">Don\'t have an account?</string>
+    <string name="registerText"> <b>Sign up</b></string>
+    <string name="addtext">Add</string>
+    <string name="add_by_cameratext">Add by Camera</string>
+    <string name="add_by_gallerytext">Add by Gallery</string>
+    <string name="story_apptext">Story App</string>
+    <string name="error_password_text">Password must be at least 8 characters</string>
+    <string name="story_photo_text">Story Photo</string>
+    <string name="dummy_username">Xian Lie</string>
+    <string name="dummy_desc">Hello Everyone!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retro_type">Retro</string>
+    <string name="null_description_message">Please, input the description</string>
+    <string name="null_picture_message">Please, Input your picture first.</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#8B5A2B</color>
+    <color name="secondary">#F2EFE9</color>
+    <color name="tertiary">#FFFFF0</color>
+    <color name="quaternary">#AEC6CF</color>
+    <color name="quinary">#C6D5B6</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#F2EFE9</color>
+
+    <color name="primary_dark">#856750</color>
+    <color name="secondary_dark">#E9E0D1</color>
+    <color name="tertiary_dark">#F5F5F5</color>
+    <color name="quaternary_dark">#82B3AE</color>
+    <color name="quinary_dark">#A8C8B4</color>
+    <color name="black_dark">#FF000000</color>
+    <color name="white_dark">#FFFFFFFF</color>
+    <color name="background_dark">#303030</color>
+    <color name="text_dark">#FFFFFF</color>
+    <color name="text_light">#000000</color>
+
+    <color name="loading_color">#808080</color>
+    <color name="loading_color_dark">#FFFFFFFF</color>
+</resources>
